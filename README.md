@@ -61,7 +61,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/magda5281/react-movies-app.git
-cd react-movies
+cd react-movies-app
 
 ```
 
